@@ -1,0 +1,6 @@
+crewai
+crewai-tools
+langchain_groq
+requests
+python-dotenv
+streamlit>=1.32.0
